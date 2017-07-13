@@ -1,0 +1,26 @@
+message list:
+
+detect block on podium 1
+
+from sensor to robot arm 1
+if conveyor is free
+move block to conveyer
+
+
+conveyer to robot arm 1 is free?
+
+
+conveyer to robot army 2 block ready to be taken
+- arm 2 movment routine if podium 2 is free
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+Methods:
+
+init start up 
+
+boolean podium 1/2 clear?
+
+boolean conveyer 
+
+boolean for each sensor

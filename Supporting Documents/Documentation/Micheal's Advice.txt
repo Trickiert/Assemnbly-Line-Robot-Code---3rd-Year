@@ -1,0 +1,14 @@
+1. List all messeges between components of the system.
+2. Put them in a header file. eg "msg.h"
+		typedef msg_t emum
+{
+		START,STOP,EMERGANCY_STOP,ITEM_ON_PISTON
+			
+}
+
+
+4. Use above as messege typesd to send around the CAN bus.
+
+
+
+4.2 Uppaal model of a high level view of the system. V.Abstract
